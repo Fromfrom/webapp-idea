@@ -7,10 +7,8 @@
     height: 0;
     overflow: hidden;
 }
-
-.Flexible-container iframe,   
-.Flexible-container object,  
-.Flexible-container embed {
+ 
+#map-canvas {
     position: absolute;
     top: 0;
     left: 0;
